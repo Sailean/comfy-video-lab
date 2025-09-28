@@ -5,3 +5,8 @@ einops
 safetensors
 imageio[ffmpeg]
 av
+tqdm
+pyyaml
+scipy
+moviepy
+soundfile
