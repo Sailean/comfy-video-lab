@@ -1,5 +1,7 @@
-torch
-torchvision
 numpy
+pillow
 opencv-python
-
+einops
+safetensors
+imageio[ffmpeg]
+av
